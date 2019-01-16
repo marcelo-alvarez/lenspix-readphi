@@ -1,6 +1,8 @@
 # modified_lenspix
 ---modifications to LensPix by Louis Pham and Alex van Engelen ---
 
+The original modifications can be found at [Louis Pham's github](https://github.com/louis-pham/modified_lenspix).
+
 The original code for LensPix can be found [here](http://cosmologist.info/lenspix/).
 
 ## What does it do?
